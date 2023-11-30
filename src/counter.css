@@ -1,0 +1,42 @@
+.head{
+    color:black;
+    font-size:40px;
+    width:100vw;
+    text-align: center;
+}
+
+#increment{
+    border:1px solid black;
+    /* font-size:30px; */
+    border-radius:0%;
+    padding:10px 30px;
+}
+#decrement{
+    margin-left:30px;
+    /* font-size:30px; */
+    border:1px solid black;
+    border-radius:0%;
+    padding:10px 30px;
+
+}
+#reset{
+    /* font-size:20px; */
+    margin-left:30px;
+    border:1px solid black;
+    border-radius:0%;
+    padding:10px 30px;
+
+}
+#value{
+    font-weight:bold;
+    font-size:30px;
+    color:brown;
+    text-align: center;
+}
+#operations{
+    text-align: center;
+}
+button:active{
+    color:white;
+    background-color:rgb(8, 8, 8);
+}
